@@ -1,0 +1,22 @@
+Name: Naol Samuel Erega
+Student Number: 20210889
+Assignment Number: 3
+
+Assignment Overview:
+  This assignment provided me an in-depth practice on struct data types, hash table implementations and dynamic memory
+  management. It took me about 72 hours to complete the assignment. I think, the tasks are well-aligned with the topics
+  that were convered during the lecture. So, it was a very good experience doing the assignment!
+  
+Array Vs Hash Table Implementations: 
+  The array-based implementation is straightforward as we directly store the object itself. However, it takes longer time
+  to manipulate the user information and it's even worse when the number of users is too large. On the other hand, Hash tables 
+  offer significant efficiency improvements, allowing for fast data manipulation even with large datasets. Operations that take
+  considerable time with arrays implementation can be executed in fractions of a second with hash tables. However, the memory man
+  agement and designing a good hash function is quite challenging in this case.
+   
+Extra Credit: 
+  To get extra credit, I have implemented the hash table expansion in the RegisterCustomer function within customer_management2.c. 
+
+Collaborations: 
+  I received valuable support through campuswire discussions. TAs were very helpful!
+
